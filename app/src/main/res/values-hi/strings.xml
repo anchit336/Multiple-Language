@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multiple_language</string>
+    <string name="selectedlanguage">हिंदी</string>
+    <string name="language">नमस्ते दुनिया</string>
+
+</resources>
